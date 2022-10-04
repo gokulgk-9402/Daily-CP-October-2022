@@ -16,3 +16,8 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/)
 * [Count Submatrices with all ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)
 * [Minimum number of increments on subarrays to form a target array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/)
+
+#### October 4, 2022
+* [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
+* [Path Sum](https://leetcode.com/problems/path-sum/description/)
+* [Count All Possible Paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1)
