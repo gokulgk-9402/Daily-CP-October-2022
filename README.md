@@ -21,3 +21,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
 * [Path Sum](https://leetcode.com/problems/path-sum/description/)
 * [Count All Possible Paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1)
+
+#### October 5, 2022
+* [Geek And Strings](https://practice.geeksforgeeks.org/problems/geek-and-strings3030/1)
+* [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
+* [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
+* [Smallest Range Covering Elements from K lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
+* [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/)
