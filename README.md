@@ -28,3 +28,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
 * [Smallest Range Covering Elements from K lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
 * [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/)
+
+#### October 6, 2022
+* [Lexicographically smallest string](https://practice.geeksforgeeks.org/problems/mila-and-strings0435/1)
+* [Time based key-value store](https://leetcode.com/problems/time-based-key-value-store/description/)
+* [Triples with bitwise AND equal to zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/)
+* [Minimum costs for tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+* [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
