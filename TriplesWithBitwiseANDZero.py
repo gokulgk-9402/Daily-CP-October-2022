@@ -13,6 +13,7 @@ class Solution:
 
         for key in mem:
             for c in nums:
+                
                 if key & c == 0:
                     ans += mem[key]
 

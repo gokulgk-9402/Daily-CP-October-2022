@@ -13,6 +13,7 @@ class Solution:
             
         req = length-k
         stack = []
+        
         for i in range(length):
             while stack and stack[-1] > S[i] and len(stack) + length - i - 1 >= req:
                 stack.pop()

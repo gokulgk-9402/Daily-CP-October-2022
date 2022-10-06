@@ -1,3 +1,6 @@
+from typing import List
+import bisect
+
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
 
@@ -5,7 +8,7 @@ class Solution:
             return min(costs)
 
         mem = {}
-        
+
         def dfs(index):
             if index in mem:
                 return mem[index]

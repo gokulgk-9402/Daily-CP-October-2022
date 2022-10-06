@@ -4,6 +4,7 @@ class Solution:
         ans = []
 
         while a or b:
+            
             if len(ans) >= 2 and ans[-1] == ans[-2]:
                 is_a = ans[-1] == 'b'
             else:
