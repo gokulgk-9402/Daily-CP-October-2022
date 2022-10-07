@@ -35,3 +35,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Triples with bitwise AND equal to zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/)
 * [Minimum costs for tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 * [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
+
+#### October 7, 2022
+* [My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/)
+* [Flatten Binary Tree to Linked List](https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1)
+* [Flood Fill](https://leetcode.com/problems/flood-fill/description/)
+* [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
+* [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)
