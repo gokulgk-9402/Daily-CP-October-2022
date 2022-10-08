@@ -42,3 +42,8 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 * [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 * [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)
+
+#### October 8, 2022
+* [Substrings of length k with k-1 distinct elements](https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1)
+* [3 sum Closest](https://leetcode.com/problems/3sum-closest/)
+* [4Sum](https://leetcode.com/problems/4sum/)
