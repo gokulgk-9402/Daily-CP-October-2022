@@ -47,3 +47,11 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Substrings of length k with k-1 distinct elements](https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1)
 * [3 sum Closest](https://leetcode.com/problems/3sum-closest/)
 * [4Sum](https://leetcode.com/problems/4sum/)
+
+#### October 9, 2022
+* [Help Ishaan](https://practice.geeksforgeeks.org/problems/help-ishaan5837/1)
+* [Two sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+* [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/)
+  
+#### October 10, 2022
+* []()
