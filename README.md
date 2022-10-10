@@ -54,4 +54,8 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/)
   
 #### October 10, 2022
-* []()
+* [Break a palindrome](https://leetcode.com/problems/break-a-palindrome/description/)
+* [Number of islands](https://practice.geeksforgeeks.org/problems/number-of-islands/1)
+* [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/819334267/)
+* [Reverse Subarray to maximize array value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/)
+* [Rank Transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/description/)
