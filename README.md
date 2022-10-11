@@ -59,3 +59,9 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/819334267/)
 * [Reverse Subarray to maximize array value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/)
 * [Rank Transform of an array](https://leetcode.com/problems/rank-transform-of-an-array/description/)
+
+#### October 11, 2022
+* [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)
+* [Decode the String](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)
+* [Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
+* [Integer Break](https://leetcode.com/problems/integer-break/description/)
