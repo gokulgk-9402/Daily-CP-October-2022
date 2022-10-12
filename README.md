@@ -65,3 +65,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Decode the String](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)
 * [Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [Integer Break](https://leetcode.com/problems/integer-break/description/)
+
+#### October 12, 2022
+* [Save your life](https://practice.geeksforgeeks.org/problems/save-your-life4601/1)
+* [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
+* [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
+* [Preimage size of factorial zeroes function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/)
+* [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/)
