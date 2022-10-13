@@ -72,3 +72,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
 * [Preimage size of factorial zeroes function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/)
 * [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/)
+
+#### October 13, 2022
+* [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
+* [Max Min](https://practice.geeksforgeeks.org/problems/max-min/1)
+* [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+* [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/description/)
+* [Maximum value after insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/)
