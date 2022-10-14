@@ -79,3 +79,7 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/description/)
 * [Maximum value after insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/)
+
+#### October 14, 2022
+* [Delete the middle node of a linked list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
+* [Maximize the sum of selected numbers from an array to make it empty](https://practice.geeksforgeeks.org/problems/maximize-the-sum-of-selected-numbers-from-an-array-to-make-it-empty0836/1)
