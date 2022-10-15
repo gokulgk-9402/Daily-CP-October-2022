@@ -83,3 +83,7 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 #### October 14, 2022
 * [Delete the middle node of a linked list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
 * [Maximize the sum of selected numbers from an array to make it empty](https://practice.geeksforgeeks.org/problems/maximize-the-sum-of-selected-numbers-from-an-array-to-make-it-empty0836/1)
+
+#### October 15, 2022
+* [String Compression II](https://leetcode.com/problems/string-compression-ii/description/)
+* [Shortest Distance In a binary Maze](https://practice.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1)
