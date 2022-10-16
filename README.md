@@ -87,3 +87,9 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 #### October 15, 2022
 * [String Compression II](https://leetcode.com/problems/string-compression-ii/description/)
 * [Shortest Distance In a binary Maze](https://practice.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1)
+* [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/description/)
+
+#### October 16, 2022
+* [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/)
+* [Move last element to front of a linked list](https://practice.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1)
+* [Number of substrings containing all three characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
