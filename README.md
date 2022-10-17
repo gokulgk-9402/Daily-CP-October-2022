@@ -93,3 +93,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/)
 * [Move last element to front of a linked list](https://practice.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1)
 * [Number of substrings containing all three characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
+
+#### October 17, 2022
+* [Check if string is a pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
+* [Replace every element with next greater element in the right](https://practice.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1)
+* [Maximum Ice Cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+* [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)
+* [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
