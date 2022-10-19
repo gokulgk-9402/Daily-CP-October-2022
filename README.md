@@ -106,4 +106,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 * [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
 * [Maximum Number of vowels in a substring of given length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
-* 
+
+#### October 19, 2022
+* [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/description/)
+* [Count Number of special subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/description/)
+* [Hamiltonian Path](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1)
+* [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
+* [Number of ways to paint Nx3 grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/)
