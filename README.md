@@ -100,3 +100,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Maximum Ice Cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 * [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)
 * [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
+
+#### October 18, 2022
+* [Print Diagonally](https://practice.geeksforgeeks.org/problems/print-diagonally4331/1)
+* [Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+* [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
+* [Maximum Number of vowels in a substring of given length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
+* 
