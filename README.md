@@ -113,3 +113,7 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Hamiltonian Path](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1)
 * [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [Number of ways to paint Nx3 grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/)
+
+#### October 20, 2022
+* [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
+* [Number formation](https://practice.geeksforgeeks.org/problems/number-formation3506/1)
