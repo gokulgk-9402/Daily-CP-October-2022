@@ -117,3 +117,7 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 #### October 20, 2022
 * [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
 * [Number formation](https://practice.geeksforgeeks.org/problems/number-formation3506/1)
+  
+#### October 21, 2022
+* [Contains Dupliate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+* [Reverse Spiral Form of a Matrix](https://practice.geeksforgeeks.org/problems/reverse-spiral-form-of-matrix4033/1)
