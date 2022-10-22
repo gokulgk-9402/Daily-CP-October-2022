@@ -121,3 +121,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 #### October 21, 2022
 * [Contains Dupliate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 * [Reverse Spiral Form of a Matrix](https://practice.geeksforgeeks.org/problems/reverse-spiral-form-of-matrix4033/1)
+
+#### October 22, 2022
+  * [Filling bucket](https://practice.geeksforgeeks.org/problems/filling-bucket0529/1)
+  * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+  * [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/description/)
+  * [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/description/)
+  * [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/)
