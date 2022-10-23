@@ -128,3 +128,8 @@ My solutions for CP problems that I try/solve during the month of October 2022.
   * [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/description/)
   * [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/description/)
   * [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/)
+
+#### October 23, 2022
+* [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
+* [Stepping Numbers](https://practice.geeksforgeeks.org/problems/stepping-numberswrong-output1813/1)
+* [Maximum length of a pair chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
