@@ -133,3 +133,9 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [Stepping Numbers](https://practice.geeksforgeeks.org/problems/stepping-numberswrong-output1813/1)
 * [Maximum length of a pair chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
+
+#### October 24, 2022
+* [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
+* [Earthquake and the paint shop](https://practice.geeksforgeeks.org/problems/earthquake-and-the-paint-shop4518/1)
+* [Maximum Number of tasks you can assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)
+* [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
