@@ -139,3 +139,10 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Earthquake and the paint shop](https://practice.geeksforgeeks.org/problems/earthquake-and-the-paint-shop4518/1)
 * [Maximum Number of tasks you can assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)
 * [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+
+#### October 25, 2022
+* [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
+* [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
+* [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
+* [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
+* [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)
