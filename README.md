@@ -146,3 +146,17 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 * [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 * [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
 * [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)
+
+#### October 26, 2022
+* [The Smurfs](https://practice.geeksforgeeks.org/problems/the-smurfs4201/1)
+
+#### October 27, 2022
+* [Image Overlap](https://leetcode.com/problems/image-overlap/description/)
+* [Print leaf nodes from preorder traversal of BST](https://practice.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1)
+
+#### October 28, 2022
+* [Sequence Fun](https://practice.geeksforgeeks.org/problems/sequence-fun5018/0)
+
+#### October 29, 2022
+* [Earliest Possible day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)
+* [Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1)
