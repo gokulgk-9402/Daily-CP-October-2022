@@ -160,3 +160,11 @@ My solutions for CP problems that I try/solve during the month of October 2022.
 #### October 29, 2022
 * [Earliest Possible day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)
 * [Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1)
+
+#### October 30, 2022
+* [Chicks in a zoo](https://practice.geeksforgeeks.org/problems/chicks-in-a-zoo1159/1)
+* [Shortest Path in a grid with obstacles elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
+  
+#### October 31, 2022
+* [Satisfy the equation](https://practice.geeksforgeeks.org/problems/satisfy-the-equation5847/1)
+* [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
